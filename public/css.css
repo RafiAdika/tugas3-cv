@@ -1,0 +1,107 @@
+
+.all {
+    height: 1400px;
+    width: 100%;
+    margin-left: 100px;
+    background-color: white;
+    padding-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+      .bg {
+        background-color: darkslateblue;
+        height: 40px;
+        margin-top: -10px;
+      }
+      .res {
+        background-color: darkslateblue;
+        height: 1px;
+        margin-left: 50px;
+        margin-top: -10px;
+        width: 130px;
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+        font-size: 30px;
+        text-align: center;
+        padding-bottom: 40px;
+      }
+      .jud {
+        background-color: darkslateblue;
+        height: 150px;
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+      }
+      .gb {
+        padding-top: 30px;
+      }
+      .gm {
+        width: 170px;
+        height: 170px;
+        display: flex;
+        border: 10px solid white;
+        border-radius: 50%;
+        margin-left: 20px;
+        margin-top: -100px;
+      }
+      .p {
+          margin-left: 250px;
+          font-family: 'Courier New', Courier, monospace;
+      }
+      .j {
+          margin-left: 250px;
+      }
+      body {
+          margin-left: 200px;
+          margin-right: 300px;
+          margin-bottom: 200px;
+      }
+      .k {
+          margin-left: 110px;
+          margin-top: -1090px;
+          font-family: 'Courier New', Courier, monospace;
+      }
+      .g {
+          width: 220px;
+      }
+      .ka {
+        margin-left: 150px;
+          margin-top: -10px;
+          font-family: 'Courier New', Courier, monospace;
+      }
+      .ki {
+          margin-left: 50px;
+          margin-top: -20px;
+      }
+      .kk {
+          margin-left: 70px;
+          margin-top: -1px;
+          font-size: 15px;
+      }
+      .kl {
+          font-family: 'Courier New', Courier, monospace;
+          margin-left: 130px;
+      }
+      .l {
+          margin-left: 250px;
+          margin-right: 100px;
+          border: none;
+          background-color:silver;
+      }
+      .m {
+          margin-left: 250px;
+          margin-top: -70px;
+      }
+      .h {
+          margin-left: 255px;
+          margin-top: -10px;
+          font-family:cursive;
+          font-size: 15px;
+      }
+      .b {
+          margin-top: -10px;
+          font-family:cursive;
+          font-size: 15px;
+      }
+      .mo {
+        margin-left: 270px;
+        margin-top: -200px;
+    }
